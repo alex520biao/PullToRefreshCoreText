@@ -1,6 +1,6 @@
 PullToRefreshCoreText
 =====================
-
+为所有的UIScrollView类提供扩展下拉刷新的功能。   
 PullToRefresh extension for all UIScrollView type classes with animated text drawing style<br>
 
 Demo
